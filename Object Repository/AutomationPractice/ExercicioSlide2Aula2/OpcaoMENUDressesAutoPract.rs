@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>EmailAutomationPractice</name>
+   <name>OpcaoMENUDressesAutoPract</name>
    <tag></tag>
-   <elementGuidId>3568c510-344e-48ca-b538-3e5258409b9a</elementGuidId>
+   <elementGuidId>cb2031be-e9e4-4530-a97a-67d55e0a6b75</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>&quot;//input[@id='email']&quot;</value>
+         <value>//div[@id='block_top_menu']/ul/li/a[@title='Dresses']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

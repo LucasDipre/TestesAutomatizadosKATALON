@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OpcaoMENUSummerDressesAutPrct</name>
+   <name>PasswordAutomationPractice</name>
    <tag></tag>
-   <elementGuidId>ea80928d-2211-47ea-bee2-9f36d8b6daaa</elementGuidId>
+   <elementGuidId>78fc8cf2-1fb2-4f10-9c17-3dad10a2d44b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>&quot;//div/ul/li[a[@title='Dresses']]/ul/li/a[@title='Summer Dresses']&quot;
+         <value>//input[@id='passwd']
 </value>
       </entry>
    </selectorCollection>

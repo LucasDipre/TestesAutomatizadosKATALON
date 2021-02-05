@@ -26,7 +26,7 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('www.amazom.com.br')
 
 //WebUI.delay(3)
-TestObject livros = findTestObject('Object Repository/LivrosAMAZON')
+TestObject livros = findTestObject('AutomationPractice/AmazonElements/LivrosAMAZON')
 WebUI.click(livros)
 WebUI.delay(3)
 WebUI.closeBrowser()

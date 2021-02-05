@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>https://s1.demo.opensourcecms.com/s/44</description>
-   <name>SiteOrangeExemplo1</name>
+   <description></description>
+   <name>OpcaoMENUSummerDressesAutPrct</name>
    <tag></tag>
-   <elementGuidId>6374d600-4433-405d-a5f6-70d6af50e621</elementGuidId>
+   <elementGuidId>ea80928d-2211-47ea-bee2-9f36d8b6daaa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>&quot;//input[@id='organization_province']&quot;</value>
+         <value>//div/ul/li[a[@title='Dresses']]/ul/li/a[@title='Summer Dresses']
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

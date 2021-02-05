@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PasswordAutomationPractice</name>
+   <name>BotaoSignInAutomationPractice</name>
    <tag></tag>
-   <elementGuidId>78fc8cf2-1fb2-4f10-9c17-3dad10a2d44b</elementGuidId>
+   <elementGuidId>ff1a8643-55cc-45d9-aa27-960276ab6420</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>&quot;//input[@id='passwd']&quot;
-</value>
+         <value>//button[@id='SubmitLogin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
