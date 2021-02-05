@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tenstar a Criação dos CTS</description>
+   <name>CT_01_comandosIniciais</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c433a27-3d4a-4b66-a408-07e7b456932f</testCaseGuid>
+</TestCaseEntity>
